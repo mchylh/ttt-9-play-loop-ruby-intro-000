@@ -46,6 +46,4 @@ def play(board)
       puts "You only have #{turns} left"
     end
   end
-end  
-    
-
+end
